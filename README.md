@@ -30,7 +30,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Screenshots of sample HTML Webpage
+## Screenshots of Sample HTML Webpage
 
 ## Link to Walkthrough Video
 

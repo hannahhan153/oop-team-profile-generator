@@ -4,5 +4,26 @@
   },
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "name": "oop-team-profile-generator",
+  "description": "The purpose of this application is to take in information about software engineering employees and generate an HTML webpage that displays the summaries about each employee.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahhan153/oop-team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahhan153/oop-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/hannahhan153/oop-team-profile-generator#readme"
 }
