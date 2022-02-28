@@ -31,7 +31,11 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Screenshots of Sample HTML Webpage
+![Front](images/Screen%20Shot%202022-02-28%20at%2012.19.13%20AM.png)
+![Second](images/Screen%20Shot%202022-02-28%20at%2012.19.30%20AM.png)
 
 ## Link to Walkthrough Video
+https://watch.screencastify.com/v/XZf5CMCUKDzL7Z2Lye4i
 
 ## Link to GitHub Repository
+https://github.com/hannahhan153/oop-team-profile-generator 
