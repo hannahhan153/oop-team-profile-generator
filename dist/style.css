@@ -11,6 +11,11 @@ body {
     width: 30%;
     padding: 0 10px;
 }
+.heading {
+    text-align: center;
+    color:cadetblue;
+    
+}
 
 .row {
     text-align: center;
@@ -36,3 +41,4 @@ body {
 .container {
     padding: 2px 16px;
 }
+
